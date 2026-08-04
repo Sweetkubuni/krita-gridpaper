@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=gridpaper
+Name=Grid Paper Layer
+Comment=Add a graph-paper grid layer using standard grid sizes (1/4, 1/5, 1/8, 1/10 inch; 1 cm, 5 mm, 4 mm, 2 mm)
